@@ -1,27 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently building full-stack web applications and experimenting with Web3 technologies<br><br>👯 I’m looking to collaborate on Web3 projects, dApps, or open-source initiatives related to DevOps and AI integration in web development<br><br>🤝 I’m looking for help with deep dives into blockchain architecture and advanced DevOps practices for scalable applications<br><br>🌱 I’m currently learning Web3 development (smart contracts, decentralized applications), DevOps tools (Docker, Kubernetes, CI/CD), and exploring AI/ML applications in web development<br><br>💬 Ask me about full-stack web development, basic blockchain concepts, or getting started with DevOps tools<br><br>⚡ Fun fact: I'm secretly hoping AI will one day write all my boilerplate code!
+<div align="center">
+  <img src="https://github.com/nexcodes.png" width="120" style="border-radius: 50%;" />
+  
+# Mian Mohid Naeem
 
+<b>Full Stack Engineer · Generative & Agentic AI · DevOps · Web3</b>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nexcodes_ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mian-mohid-naeem) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nexcodes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business@nexcodes.me) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=flat&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat&logo=tRPC&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=flat&logo=Cockroach%20Labs&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nexcodes&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nexcodes&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nexcodes&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<i>I build things that must be correct and read things that resist being correct. <br /> The discipline of one keeps the arrogance of the other in check.</i>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nexcodes&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
+<hr/>
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nexcodes&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+## The Story So Far
 
----
-[![](https://visitcount.itsvg.in/api?id=nexcodes&icon=0&color=0)](https://visitcount.itsvg.in)
+I'm a Full Stack Engineer and Data Science student at UMT, and most of my time right now goes into building AI products. Generative and Agentic AI is a genuinely fascinating space, and I feel lucky to be in it at this exact moment in time.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Hackathons kind of became my thing along the way. There's something about being thrown into a room with a problem, a deadline, and not enough sleep that brings out the best version of how I think. Gold at PuCon'25 and Softronix'26, silver at Surge'25, bronze at Softec'25. Each one taught me something the previous one didn't. I keep going back because I genuinely enjoy it — the chaos, the pressure, the moment something finally clicks at 2am.
+
+Web3 and DevOps are what I'm diving into right now. I got to a point where I realized the gaps in my understanding were starting to limit what I could build — and that's a feeling I can't sit with for long. So I do what I always do: start learning, start building, see where it goes.
+
+And the next chapter? Open source. I've spent a lot of time building things of my own, but there's something different about contributing to projects that thousands of people actually rely on. It's a challenge I'm ready for — and honestly, it feels like the natural next step.
+
+That's pretty much been the whole story so far. Something catches my attention, I go deep on it, I build something with it. Not because I have a grand plan — just because I genuinely can't help it.
+
+<br/>
+
+## Technical Arsenal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,python,rust,docker,kubernetes,aws,azure,gcp,postgres,mongodb,redis,graphql,tailwind,figma,git,github,linux,bash,vercel,nginx,fastapi,web3js&perline=8" />
+  </a>
+</p>
+
+<br/>
+
+<hr/>
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nexcodes&theme=github_dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nexcodes&theme=default&hide_border=true&background=00000000">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexcodes&theme=default&hide_border=true&background=00000000" height="160" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=nexcodes&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=nexcodes&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000">
+    <img src="https://github-contributor-stats.vercel.app/api?username=nexcodes&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000" height="160" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nexcodes&theme=github-dark&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nexcodes&theme=default&hide_border=true&bg_color=00000000">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexcodes&theme=default&hide_border=true&bg_color=00000000" width="100%" />
+  </picture>
+
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/mian-mohid-naeem"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:business@nexcodes.me"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <p><i>The best way to predict the future is to invent it.</i><br/>Alan Kay</p>
+</div>
