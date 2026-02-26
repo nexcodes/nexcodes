@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nexcodes.png" width="120" style="border-radius: 50%;" />
+  <img src="https://github.com/nexcodes.png" width="160" height="160" />
   
 # Mian Mohid Naeem
 
